@@ -32,9 +32,9 @@
 
 # 3. 사용 환경
 
-- 코디세이 학습 네이토 (GPT-5.5)
-- 코디세이 학습 네이토 (Claude Sonnet 4.6)
-- 코디세이 학습 네이토 (Gemini 3.1 Pro)
+- WEB - 코디세이 학습 네이토 (GPT-5.5)
+- WEB - 코디세이 학습 네이토 (Claude Sonnet 4.6)
+- WEB - 코디세이 학습 네이토 (Gemini 3.1 Pro)
 
 ---
 
